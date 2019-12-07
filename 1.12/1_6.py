@@ -1,0 +1,1 @@
+print(sum(i*i for i in range(1,int(input())) if i%2 != 0))
